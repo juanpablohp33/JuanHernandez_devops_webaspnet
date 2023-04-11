@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JuanHernandez_devops_webaspnet.props" />
+</Project>

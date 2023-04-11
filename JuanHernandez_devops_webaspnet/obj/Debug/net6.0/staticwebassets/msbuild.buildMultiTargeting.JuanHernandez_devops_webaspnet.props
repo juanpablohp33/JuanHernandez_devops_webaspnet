@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JuanHernandez_devops_webaspnet.props" />
+</Project>
